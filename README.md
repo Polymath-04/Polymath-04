@@ -35,7 +35,7 @@ I'm a data analyst based in India, passionate about transforming raw data into a
 - **Impact:** 92% forecast accuracy, optimized inventory planning
 - **Tech Stack:** Python, Pandas, ARIMA, Prophet
 - **Key Skills:** Time series analysis, statistical modeling, data visualization
-- **Repository:** [Major-Projects](https://github.com/Polymath-04/Python_Projects)
+- **Repository:** [Major-Projects](https://github.com/Polymath-04/Major-Projects)
 
 ### 2. Stock & Portfolio Manager 📈
 **Full-stack Flask web application for real-time stock portfolio tracking**
