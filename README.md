@@ -32,7 +32,7 @@ I'm a data analyst based in India, passionate about transforming raw data into a
 
 ### 1. Walmart Sales Forecasting 🏪
 **Built a time series forecasting model to predict weekly sales across 45 Walmart stores**
-- **Impact:** 92% forecast accuracy, optimized inventory planning
+- **Impact:** Time series forecasting with SARIMAX, optimized inventory planning
 - **Tech Stack:** Python, Pandas, ARIMA, Prophet
 - **Key Skills:** Time series analysis, statistical modeling, data visualization
 - **Repository:** [Major-Projects](https://github.com/Polymath-04/Major-Projects)
