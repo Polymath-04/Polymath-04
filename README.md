@@ -6,7 +6,6 @@ I'm a data analyst based in India, passionate about transforming raw data into a
 ---
 
 ## 📄 **Quick Links**
-- 🔗 **[Resume/CV](#)** - Download my latest resume
 - 💼 **[LinkedIn](https://www.linkedin.com/in/parthsharma04/)** - Connect with me professionally
 - 📧 **[Email](mailto:parth.da0402@gmail.com)** - parth.da0402@gmail.com
 - 🌐 **Location:** India
